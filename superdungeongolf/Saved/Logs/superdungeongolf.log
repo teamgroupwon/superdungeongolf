@@ -608,3 +608,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.19-10.24.01:739][250]LogSavePackage: Moving '../../../../../Documents/GitHub/superdungeongolf/superdungeongolf/Saved/PaganiniLavaLakeAA7D426A43A29A58FD1331AA4C7E4EC8.tmp' to '../../../../../Documents/GitHub/superdungeongolf/superdungeongolf/Content/Sounds/Music/PaganiniLavaLake.uasset'
 [2019.06.19-10.24.05:083][490]AssetReimport: Importing new asset /Game/Sounds/Music/DankDungeon.
 [2019.06.19-10.24.05:084][490]AssetReimport: Importing new asset /Game/Sounds/Music/PaganiniLavaLake.
+[2019.06.19-10.30.21:690][284]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
